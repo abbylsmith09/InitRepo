@@ -1,2 +1,3 @@
 Abigail Smith
 This is the second line. 
+Animals are cute.
